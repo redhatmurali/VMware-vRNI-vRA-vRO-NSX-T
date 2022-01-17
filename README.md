@@ -1,7 +1,4 @@
-[![Flutter logo]](https://docs.flutter.dev)
-# [Flutter][] website 
-![](name-of-Animation.gif)
-[![Build Status][]][Repo on GitHub Actions]
+![](Animation.gif)
 
 > **Note:** We've made significant changes to this
 > repo to make it easier to use and maintain.
